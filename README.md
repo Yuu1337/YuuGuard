@@ -16,5 +16,6 @@
 
 ### Co zrobić aby YuuGUARD działał poprawnie? ###
 - **1.Zainstaluj YuuGUARDsetup.exe**
-- **2.Włącz YuuGUARD**
+- **2.Utwórz folder yuugurad w %appdata%**
+- **3.Włącz YuuGUARD**
 - **3. Ciesz się YuuGUARD'em! :D**
